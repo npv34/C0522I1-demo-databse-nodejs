@@ -1,0 +1,12 @@
+{
+  "name": "webapp-nodejs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19",
+    "qs": "^6.11.0"
+  }
+}
